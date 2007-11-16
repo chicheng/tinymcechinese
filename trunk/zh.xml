@@ -11,7 +11,7 @@
 		项目：	http://code.google.com/p/tinymcechinese/
 	-->
 	<header>
-		<author>Cloudream</author>
+		<author>Cloudream (cloudream@gmail.com)</author>
 		<version major="1" minor="0" releasedate="2007-11-16" />
 		<description>TinyMCE 3 简体中文语言包</description>
 	</header>
@@ -405,7 +405,7 @@
 			<item name="acronym_desc">首字母缩写</item>
 			<item name="del_desc">删除</item>
 			<item name="ins_desc">插入</item>
-			<item name="attribs_desc">插入/编辑 Attributes</item>
+			<item name="attribs_desc">插入/编辑 属性</item>
 		</group>
 		<!-- Advlink plugin dialog -->
 		<group target="xhtmlxtras_dlg">
