@@ -4,12 +4,6 @@
 		此语言包文件用于 TinyMCE 开发. 此 XML 文件用于生成 .js 文件.
 		更多信息请见Wiki: http://wiki.moxiecode.com/index.php/TinyMCE:Creating_Language
 	-->
-	<!--
-		翻译：	Cloudream
-		E-Mail：cloudream@gmail.com
-		网站：	http://blog.cloudream.name
-		项目：	http://code.google.com/p/tinymcechinese/
-	-->
 	<header>
 		<author>Cloudream (cloudream@gmail.com)</author>
 		<version major="1" minor="0" releasedate="2007-11-16" />
