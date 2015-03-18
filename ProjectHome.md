@@ -1,0 +1,2 @@
+TinyMCE Chinese
+TinyMCE汉化
